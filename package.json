@@ -1,0 +1,14 @@
+{
+  "name": "typesaurus-get-started",
+  "version": "1.0.0",
+  "description": "Get started with Typesaurus",
+  "main": "index.js",
+  "author": "Sasha Koss <koss@nocorp.me>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^8.3.0",
+    "ts-node": "^8.3.0",
+    "typesaurus": "../typesaurus/lib",
+    "typescript": "^3.6.0-beta"
+  }
+}
